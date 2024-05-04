@@ -45,12 +45,9 @@ This course provides a comprehensive overview of big data technologies and large
 
 ## Notebooks
 
-  - `week2_spark_intro.ipynb`
-  - `week3_machine_learning_overview.ipynb`
-  - `week4_linear_regression.ipynb`
-  - `week5_logistic_regression.ipynb`
-  - `week6_pca_and_data_analysis.ipynb`
-  - `week7_big_data_mllib.ipynb`
-  - `week8_spark_sql.ipynb`
-  - `week9_network_analysis.ipynb`
+  - `1- Pyspark_Intro_RDDs.ipynb`
+  - `2- LinearRegression_Spark.ipynb`
+  - `3- Click-through_rate.ipynb`
+  - `4- PCA.ipynb`
+  - `5- Yelp_Data_Analysis_MLLib.ipynb`
 
