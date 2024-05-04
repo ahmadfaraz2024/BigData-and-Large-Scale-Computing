@@ -45,22 +45,12 @@ This course provides a comprehensive overview of big data technologies and large
 
 ## Notebooks
 
-- `notebooks/`: Contains Jupyter notebooks for each assignment
-  - `notebooks/week2_spark_intro.ipynb`
-  - `notebooks/week3_machine_learning_overview.ipynb`
-  - `notebooks/week4_linear_regression.ipynb`
-  - `notebooks/week5_logistic_regression.ipynb`
-  - `notebooks/week6_pca_and_data_analysis.ipynb`
-  - `notebooks/week7_big_data_mllib.ipynb`
-  - `notebooks/week8_spark_sql.ipynb`
-  - `notebooks/week9_network_analysis.ipynb`
+  - `week2_spark_intro.ipynb`
+  - `week3_machine_learning_overview.ipynb`
+  - `week4_linear_regression.ipynb`
+  - `week5_logistic_regression.ipynb`
+  - `week6_pca_and_data_analysis.ipynb`
+  - `week7_big_data_mllib.ipynb`
+  - `week8_spark_sql.ipynb`
+  - `week9_network_analysis.ipynb`
 
-## Repository Structure
-
-- `notebooks/`: Contains Jupyter notebooks for each assignment
-- `lecture_notes/`: Lecture notes and slides
-- `additional_resources/`: Supplementary materials and resources
-
-## Getting Started
-
-To get started with the course materials, clone this repository to your local machine:
